@@ -118,6 +118,12 @@ Recent Data Table         | View OHLC and indicator values
 - Session detection adjusts info based on Asia, London, or New York market times  
 
 ------------------------------------------------------------
+🌐 LIVE DEMO
+------------------------------------------------------------
+
+Try the application online: [Auto Trade Tool Pro v1.0 Live](https://auto-trade-tool-pro.streamlit.app)
+
+------------------------------------------------------------
 👤 ABOUT
 ------------------------------------------------------------
 
@@ -132,3 +138,4 @@ Website / Contact: https://github.com/rogers-cyber
 Distributed as source code.  
 You may use it for personal or educational projects.  
 Redistribution, resale, or commercial use requires explicit permission.
+
